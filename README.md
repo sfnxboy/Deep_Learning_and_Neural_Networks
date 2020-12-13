@@ -16,7 +16,7 @@ In this project we work with a mock company, Alphabet Soup, a foundation dedicat
 The program for the following report can be found [here](https://github.com/sfnxboy/Deep_Learning_and_Neural_Networks/blob/main/AlphabetSoupCharity/AlphabetSoupCharity.ipynb).  
 
 ### Overview of Analysis  
-With a [CSV](https://github.com/sfnxboy/Neural-Networks-and-Deep-Learning-Models/blob/main/AlphabetSoupCharity/Resources/charity_data.csv) containing more than 34,000 organizations that the mock company, Alphabet Soup, has recieved over the years, we will attempt to build a neural network model that can accurately predict what features (or characteristics) organizations have that indicate that they will be a succesful investment. Within this dataset there are a number of columns that capture the metadata about each organization, such as the following:  
+With a [CSV](https://github.com/sfnxboy/Deep_Learning_and_Neural_Networks/blob/main/AlphabetSoupCharity/Resources/charity_data.csv) containing more than 34,000 organizations that the mock company, Alphabet Soup, has recieved over the years, we will attempt to build a neural network model that can accurately predict what features (or characteristics) organizations have that indicate that they will be a succesful investment. Within this dataset there are a number of columns that capture the metadata about each organization, such as the following:  
 
 - **EIN** and **NAME**—Identification columns  
 - **APPLICATION_TYPE**—Alphabet Soup application type  
